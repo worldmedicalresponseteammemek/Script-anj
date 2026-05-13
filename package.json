@@ -1,0 +1,13 @@
+{
+  "name": "china-ror-v3",
+  "version": "1.0.0",
+  "main": "china.js",
+  "scripts": {
+    "start": "node china.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "nodemailer": "^6.9.3",
+    "fs-extra": "^11.1.1"
+  }
+}
